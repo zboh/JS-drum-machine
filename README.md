@@ -1,0 +1,1 @@
+JS drum machine, coded along Wes Bos' 'JavaScript 30' challenge 
